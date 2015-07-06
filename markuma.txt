@@ -1,8 +1,4 @@
 test
-
-ƒeƒXƒg
-
-branch
-test
-branch
-test2
+Æ’eÆ’XÆ’g
+branch test
+branch test2
